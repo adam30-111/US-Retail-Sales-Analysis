@@ -138,7 +138,7 @@ This project was completed as part of the **Data Science Pathline (Level I)** ce
 
 ## 👤 Author
 
-**Sameh** — [GitHub Profile](https://github.com/adam30-111)
+**Adam Sameh** — [GitHub Profile](https://github.com/adam30-111)
 
 ---
 
