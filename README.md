@@ -1,4 +1,4 @@
-# 🛒 US Retail Sales Analysis
+# 🛒 US Retail Sales Intelligence Analytics Dashboards and Predictions
 
 > **End-to-end data analytics project** exploring 4 years of US retail superstore data — from data cleaning and EDA to interactive dashboards and machine learning predictions.
 
@@ -139,9 +139,3 @@ This project was completed as part of the **Data Science Pathline (Level I)** ce
 ## 👤 Author
 
 **Adam Sameh** — [GitHub Profile](https://github.com/adam30-111)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
